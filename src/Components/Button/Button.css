@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.andreslarrotta-button {
+    padding: 10px 20px;
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border-radius: 10px;
+    border: none;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+}
+
+.andreslarrotta-button--primary {
+    background: #f8ff64;
+}
+
+.andreslarrotta-button--secondary {
+    background: transparent;
+    outline: 2px solid #000000;
+}
