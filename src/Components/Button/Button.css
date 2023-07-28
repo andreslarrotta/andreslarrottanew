@@ -14,6 +14,7 @@
     align-items: center;
     justify-content: center;
     color: #000000;
+    transition: all 0.5s;
 }
 
 .andreslarrotta-button--primary {
@@ -23,4 +24,16 @@
 .andreslarrotta-button--secondary {
     background: transparent;
     outline: 2px solid #000000;
+}
+
+.andreslarrotta-button--fullwight {
+    width: 100%;
+}
+
+.andreslarrotta-button--normal {
+    min-width: 200px;
+}
+
+.andreslarrotta-button--content {
+    width: fit-content;
 }

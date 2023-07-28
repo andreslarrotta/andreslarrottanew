@@ -23,7 +23,8 @@ export const Primary = {
     label: "Call",
     primary: true,
     icon: false,
-    iconName: "call"
+    iconName: "call",
+    size: "normal"
   },
 };
 
@@ -32,7 +33,8 @@ export const PrimaryIcon = {
     label: "Call",
     primary: true,
     icon: true,
-    iconName: "call"
+    iconName: "call",
+    size: "normal"
   },
 };
 
@@ -41,7 +43,8 @@ export const Secundary = {
     label: "Call",
     primary: false,
     icon: false,
-    iconName: "call"
+    iconName: "call",
+    size: "normal"
   },
 };
 
@@ -50,6 +53,7 @@ export const SecundaryIcon = {
     label: "Call",
     primary: false,
     icon: true,
-    iconName: "call"
+    iconName: "call",
+    size: "normal"
   },
 };
