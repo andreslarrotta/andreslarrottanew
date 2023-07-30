@@ -4,7 +4,7 @@ import "./Button.css";
 import { Icons } from "../Icons/Icons";
 
 /**
- * This is my first component using storybook
+ * El Componente de Button tiene la funcion de adaptarse de acuerdo a las dimenciones.
  */
 
 export const Button = ({ label, primary, icon, iconName, size }) => {
